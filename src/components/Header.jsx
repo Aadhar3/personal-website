@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
 import '../css/w3.css';
-import photo from '../images/aadhar.JPG';
+import christmas from '../images/christmas.JPG';
 
 export default class Header extends Component {
   render() {
     return (
-      <img class="w3-image" src={photo} alt="" width="400" height="100"></img>
+      <div>
+        <img class="w3-image" src={christmas} alt="" width="1450"></img>
+      </div>
     )
   }
 }
