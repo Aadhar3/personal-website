@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0046f8acc2159e6fd6b8de766a916a92",
+    "revision": "f07d41feea5d1f60b8b3a08ab9553a15",
     "url": "/personal-website/index.html"
   },
   {
-    "revision": "a13bc326c76493d1edb1",
+    "revision": "021fecc26813f7f9ae73",
     "url": "/personal-website/static/css/main.08ebef2e.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-website/static/js/2.2b0ef4d3.chunk.js.LICENSE"
   },
   {
-    "revision": "a13bc326c76493d1edb1",
-    "url": "/personal-website/static/js/main.8d70d618.chunk.js"
+    "revision": "021fecc26813f7f9ae73",
+    "url": "/personal-website/static/js/main.01044871.chunk.js"
   },
   {
     "revision": "e3b48ef0bc455702ad3c",
     "url": "/personal-website/static/js/runtime-main.aacbff8d.js"
   },
   {
-    "revision": "12f3c0c5e5233f5898cee26e718fb856",
-    "url": "/personal-website/static/media/aadhar.12f3c0c5.JPG"
+    "revision": "46237b26a05cfec548635ce49d4f8db8",
+    "url": "/personal-website/static/media/christmas.46237b26.JPG"
   }
 ]);
