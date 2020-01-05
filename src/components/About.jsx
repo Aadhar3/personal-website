@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import aadhar from '../images/aadhar.JPG';
+import linkedin from '../images/linkedin.png';
 
 export default class About extends Component {
   render() {
@@ -20,20 +21,20 @@ export default class About extends Component {
 		          <div class="col-md-12 heading-section">
 		          	<h1 class="big">About</h1>
 		            <h2 class="mb-4">About Me</h2>
-		            <p>I am a senior studying computer science at the University of Michigan, Ann Arbor.</p>
+		            <p>I am an Indian.</p>
+								<p>I was brought up in Ghana, West Africa.</p>
+								<p>I am currently studying at the University of Michigan, Ann Arbor.</p>
+								<p>This place is a collection of my experiences. </p>
 		            <ul class="about-info mt-4 px-md-0 px-2">
 		            	<li class="d-flex"><span>Name:</span> <span>Aadhar Agarwal</span></li>
 		            	<li class="d-flex"><span>Email:</span> <span>Aadhar@umich.edu</span></li>
+									{/* <li class="d-flex"><span><a href="https://www.linkedin.com/in/aadhar03"><img src={linkedin} width="40"></img></a></span></li> */}
 		            </ul>
 		          </div>
 		        </div>
-	          <div class="counter-wrap ftco-animate d-flex mt-md-3">
+	          <div class="counter-wrap d-flex mt-md-3">
               <div class="text">
-              	<p class="mb-4">
-	                <span class="number" data-number="120">0</span>
-	                <span>Project complete</span>
-                </p>
-                <p><a href="#" class="btn btn-primary py-3 px-3">Download CV</a></p>
+                <p><a href="https://drive.google.com/file/d/1NOsy1K9wes-V3B0VrZJ01Utsz9AA--9O/view?usp=sharing" class="btn btn-primary py-3 px-3">Download Resume</a></p>
               </div>
 	          </div>
 	        </div>

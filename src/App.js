@@ -2,16 +2,19 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
 import About from './components/About';
+import Resume from './components/Resume';
+
 
 import './App.css';
 
 function App() {
   return (
-    <div>
+    <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
       <Navbar></Navbar>
       <Header></Header>
       <About></About>
-    </div>
+      <Resume></Resume>
+    </body>
   );
 }
 

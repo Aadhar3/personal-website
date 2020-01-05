@@ -22,7 +22,7 @@ export default class Header extends Component {
         </div>
       </div>
       <div class="mouse">
-				<a href="#" class="mouse-icon">
+				<a href="#about-section" class="mouse-icon">
 					<div class="mouse-wheel"><span class="ion-ios-arrow-round-down"></span></div>
 				</a>
 			</div>
