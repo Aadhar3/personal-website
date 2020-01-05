@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import aadhar from '../images/aadhar.JPG';
-import linkedin from '../images/linkedin.png';
 
 export default class About extends Component {
   render() {

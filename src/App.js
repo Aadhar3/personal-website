@@ -3,7 +3,7 @@ import Navbar from './components/Navbar';
 import Header from './components/Header';
 import About from './components/About';
 import Resume from './components/Resume';
-
+import Projects from './components/Projects';
 
 import './App.css';
 
@@ -14,6 +14,7 @@ function App() {
       <Header></Header>
       <About></About>
       <Resume></Resume>
+      <Projects></Projects>
     </body>
   );
 }
