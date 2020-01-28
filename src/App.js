@@ -4,6 +4,8 @@ import Header from './components/Header';
 import About from './components/About';
 import Resume from './components/Resume';
 import Projects from './components/Projects';
+import Contact from './components/Contact';
+
 
 import './App.css';
 
@@ -15,6 +17,7 @@ function App() {
       <About></About>
       <Resume></Resume>
       <Projects></Projects>
+      {/* <Contact></Contact> */}
     </body>
   );
 }
